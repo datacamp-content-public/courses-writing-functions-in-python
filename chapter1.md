@@ -3,7 +3,7 @@ title: 'Type Hinting'
 description: 'In this chapter, you will learn how to add type hints to your variables and function definitions so that you can perform static checking on your scripts. This will help ensure that your code is tested and will not produce surprising behavior in production.'
 ---
 
-## Adding Type Hints to Function Definitions
+## Adding Type Hints to Function Definitions - Practice
 
 ```yaml
 type: NormalExercise
